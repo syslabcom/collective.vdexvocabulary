@@ -1,8 +1,8 @@
 Changelog
 =========
 
-0.3 (unreleased)
-----------------
+0.3.getroot (2015-07-20)
+------------------------
 
 - Nothing changed yet.
 
