@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '0.3.getroot'
+version = '0.3.dev0'
 
 setup(
     name='collective.vdexvocabulary',
