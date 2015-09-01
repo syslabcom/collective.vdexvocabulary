@@ -1,8 +1,8 @@
 Changelog
 =========
 
-0.3 (unreleased)
-----------------
+0.2.2ikath (2015-09-01)
+-----------------------
 
 - Nothing changed yet.
 
